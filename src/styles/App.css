@@ -1,0 +1,26 @@
+.tdStylesOne {
+    padding: 25px;
+    text-align: center;
+    background-color: rgba(117, 182, 219, 0.151);
+}
+.tdStylesTwo {
+    padding: 25px;
+    text-align: center;
+}
+.tdStylesThree {
+    padding: 25px;
+    text-align: center;
+}
+.formStyles {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+.input {
+    margin-top: 20px;
+    padding: 10px;
+    width: 100px;
+    border: none;
+    background-color: turquoise;
+    cursor: pointer;
+}
